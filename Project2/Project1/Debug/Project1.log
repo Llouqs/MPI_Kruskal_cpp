@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+d:\учеба\7 семестр многопоточность\kruskal\mpi_kruskal_cpp\project2\project1\source.cpp(241): warning C4101: size: неиспользованная локальная переменная
+d:\учеба\7 семестр многопоточность\kruskal\mpi_kruskal_cpp\project2\project1\source.cpp(241): warning C4101: rank: неиспользованная локальная переменная
+  Project1.vcxproj -> D:\УЧЕБА\7 семестр многопоточность\kruskal\MPI_Kruskal_cpp\Project2\Debug\Project1.exe

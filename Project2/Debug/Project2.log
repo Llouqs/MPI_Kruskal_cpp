@@ -1,7 +1,0 @@
-﻿  Source.cpp
-c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
-d:\учеба\7 семестр многопоточность\project2\project2\source.cpp(62): warning C4018: <: несоответствие типов со знаком и без знака
-d:\учеба\7 семестр многопоточность\project2\project2\source.cpp(78): warning C4018: <: несоответствие типов со знаком и без знака
-d:\учеба\7 семестр многопоточность\project2\project2\source.cpp(94): warning C4018: <: несоответствие типов со знаком и без знака
-d:\учеба\7 семестр многопоточность\project2\project2\source.cpp(109): warning C4018: <: несоответствие типов со знаком и без знака
-  Project2.vcxproj -> D:\УЧЕБА\7 семестр многопоточность\Project2\Debug\Project2.exe
